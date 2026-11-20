@@ -1,6 +1,6 @@
 # 🏥 MediMeet (Healix) – AI-Powered Telehealth & Doctor Appointment Platform
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://automated-health-care-pm4k.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://healix-woad-nine.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
@@ -14,8 +14,8 @@
 
 ## 🌐 Live Application
 
-- **Production URL:** [https://automated-health-care-pm4k.vercel.app](https://automated-health-care-pm4k.vercel.app)
-- **Repository:** [https://github.com/mohdshiyab/AutomatedHealthCare](https://github.com/mohdshiyab/AutomatedHealthCare)
+- **Production URL:** [https://automated-health-care-pm4k.vercel.app](https://healix-woad-nine.vercel.app/)
+- **Repository:** [https://github.com/mohdshiyab/AutomatedHealthCare](https://healix-woad-nine.vercel.app/)
 
 ---
 
@@ -178,7 +178,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
    ```
 
 2. **Deploy via Vercel Dashboard:**
-   - Import your repository: `mohdshiyab/AutomatedHealthCare`
+   - Import your repository: `moizzhamad/Healix`
    - Framework Preset: **Next.js**
    - In **Environment Variables**, add all keys from your `.env` file.
    - *Note for `VONAGE_PRIVATE_KEY`:* Paste the full text content of your private key starting with `-----BEGIN PRIVATE KEY-----`.
@@ -224,9 +224,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## 👨‍💻 Author
 
-**Shiyab**
-- GitHub: [@mohdshiyab](https://github.com/mohdshiyab)
-- Email: [shihabputtur2@gmail.com](mailto:shihabputtur2@gmail.com)
+**Moizz Ahmed**
+- GitHub: [@moizzhamad](https://github.com/moizzhamad)
+- Email: [moizzakhm@gmail.com](mailto:moizzakhm@gmail.com)
 
 ---
 
